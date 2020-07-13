@@ -1,5 +1,6 @@
 ### Hi there 👋
  ![Follow](https://img.shields.io/github/followers/mahmudx?style=flat-square)
+ [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudxyz)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudofficialid)
 <!--
 **MahmudX/MahmudX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
