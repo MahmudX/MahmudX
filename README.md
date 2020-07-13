@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/github/followers/mahmudx?style=flat-square
+ ![](https://img.shields.io/github/followers/mahmudx?style=flat-square)
 <!--
 **MahmudX/MahmudX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
