@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Mahmud and here's a little information about me-
+
 - 🔭 My native language - ![C Sharp](https://img.shields.io/badge/-C%20Sharp-black?labelColor=239120&style=flat-square&logo=C+Sharp) ![XAML](https://img.shields.io/badge/-XAML-black?labelColor=0C54C2&style=flat-square&logo=XAML)
   ![Python](https://img.shields.io/badge/-Python-Black?labelColor=fff&style=flat-square&logo=Python)
 
@@ -15,7 +17,9 @@
 - 💬 Ask me about ... -->
 - 📫 How to reach me: mail@mahmudnotes.com `or` mahmudnotes@outlook.com
 
-- 😄 Pronouns: The 'H' in my name have to cover. Computer Ai skips that 'H' and pronouns my name as Mamudul Hasan 😕
+- 🔗 My domains - mahmudnotes.com `and` mahmudx.com `or` mahmudx.azurewebsites.net
+
+- 😄 Pronouns: The 'H' in my name has to cover. Computer Ai skips that 'H' and pronounces my name as Mamudul Hasan 😕
 
 - ⚡ Fun fact:
   - I can't sleep without closing my eyes.
@@ -28,8 +32,8 @@
   "platform"   : ["UWP", "WPF", "Web", "Console 😆"],
   "backend"    : ["ASP.NET"],
   "cms"        : ["WordPress"],
-  "dbms"       : ["MySQL", "Sqlite", "Array", "LinkedList", "JSON", "🤣😂"],
-  "languages"  : ["C#", "Java", "Python", "Typescript", "Javascript", "C", "C++"],
+  "dbms"       : ["MySQL", "SQLite", "Array", "LinkedList", "JSON", "🤣😂"],
+  "languages"  : ["C#", "Java", "Python", "TypeScript", "JavaScript", "C", "C++"],
   "frameworks" : [".NET Core 3.1", "Selenium", "BeautifulSoup", "Pandas"],
   "ui"         : ["Material-ui", "Bootstrap"],
   "cloud"      : ["Azure", "AWS"]
@@ -38,6 +42,6 @@
 
 ### Social
 
-![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square&logo=GitHub&label=Follow&color=0077B5&labelColor=black)
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudxyz) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudofficialid) [![Stackoverflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?labelColor=FFF&logo=Stack%20Overflow)](https://stackoverflow.com/users/6662984/mahmudul-hasan)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudxyz) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudofficialid) [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?labelColor=FE7A16&logo=Stack%20Overflow&logoColor=fff)](https://stackoverflow.com/users/6662984/mahmudul-hasan)
