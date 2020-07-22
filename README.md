@@ -1,20 +1,43 @@
-### Hi there 👋
-![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square)
- 
- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudxyz?style=flat-square)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz?style=flat-square)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudofficialid?style=flat-square)
+## Hi there 👋
 
-- 🔭 I’m currently working on    ![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C+Sharp)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
+- 🔭 My native language - ![C Sharp](https://img.shields.io/badge/-C%20Sharp-black?labelColor=239120&style=flat-square&logo=C+Sharp) ![XAML](https://img.shields.io/badge/-XAML-black?labelColor=0C54C2&style=flat-square&logo=XAML)
+  ![Python](https://img.shields.io/badge/-Python-Black?labelColor=fff&style=flat-square&logo=Python)
+
+- 🌱 I’m currently learning - ![Java](https://img.shields.io/badge/-Java-black?labelColor=2F2625&style=flat-square&logo=java)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)
+- 🔧 Tools I use -
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-- 🌱 I’m currently learning   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-Black?style=flat-square&logo=IntelliJ+IDEA)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)
-- 👯 I’m looking to collaborate on ...
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-Black?style=flat-square&logo=IntelliJ+IDEA)
+- 😊 Familiar with - ![C](https://img.shields.io/badge/-C-black?labelColor=A8B9CC&style=flat-square&logo=C&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about ... -->
+- 📫 How to reach me: mail@mahmudnotes.com `or` mahmudnotes@outlook.com
 
+- 😄 Pronouns: The 'H' in my name have to cover. Computer Ai skips that 'H' and pronouns my name as Mamudul Hasan 😕
+
+- ⚡ Fun fact:
+  - I can't sleep without closing my eyes.
+  - I spent \$30 to earn 0.00000008 BTC
+
+### Skills
+
+```JSON
+{
+  "platform"   : ["UWP", "WPF", "Web", "Console 😆"],
+  "backend"    : ["ASP.NET"],
+  "cms"        : ["WordPress"],
+  "dbms"       : ["MySQL", "Sqlite", "Array", "LinkedList", "JSON", "🤣😂"],
+  "languages"  : ["C#", "Java", "Python", "Typescript", "Javascript", "C", "C++"],
+  "frameworks" : [".NET Core 3.1", "Selenium", "BeautifulSoup", "Pandas"],
+  "ui"         : ["Material-ui", "Bootstrap"],
+  "cloud"      : ["Azure", "AWS"]
+}
+```
+
+### Social
+
+![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square)
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudxyz) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudofficialid) [![Stackoverflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?labelColor=FFF&logo=Stack%20Overflow)](https://stackoverflow.com/users/6662984/mahmudul-hasan)
