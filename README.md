@@ -45,3 +45,9 @@ My name is Mahmud and here's a little information about me-
 ![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square&logo=GitHub&label=Follow&color=0077B5&labelColor=black)
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudxyz) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudofficialid) [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?labelColor=FE7A16&logo=Stack%20Overflow&logoColor=fff)](https://stackoverflow.com/users/6662984/mahmudul-hasan)
+
+### Profile Overview
+
+[![MahmudX's github stats](https://github-readme-stats.vercel.app/api?username=mahmudx&theme=tokyonight&show_icons=true)](https://github.com/mahmudx)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx&theme=tokyonight)](https://github.com/mahmudx)
