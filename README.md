@@ -17,7 +17,7 @@ My name is Mahmud and here's a little information about me-
 - 💬 Ask me about ... -->
 - 📫 How to reach me: mail@mahmudnotes.com `or` mahmudnotes@outlook.com
 
-- 🔗 My domains - mahmudnotes.com `and` mahmudx.com `or` mahmudx.azurewebsites.net
+- 🔗 My domains - [mahmudNotes](http://mahmudnotes.com) `and` [MahmudX](http://mahmudx.com) `or` [MahmudXAzure](http://mahmudx.azurewebsites.net)
 
 - 😄 Pronouns: The 'H' in my name has to cover. Computer Ai skips that 'H' and pronounces my name as Mamudul Hasan 😕
 
