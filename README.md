@@ -22,8 +22,8 @@ My name is Mahmud and here's a little information about me-
 - 😄 Pronouns: The 'H' in my name has to cover. Computer Ai skips that 'H' and pronounces my name as Mamudul Hasan 😕
 
 - ⚡ Fun fact:
-  🌟 I can't sleep without closing my eyes.
-  🌟 I spent \$30 to earn 0.00000008 BTC
+  - I can't sleep without closing my eyes.
+  - I spent \$30 to earn 0.00000008 BTC
 
 ### Skills
 
