@@ -3,10 +3,11 @@
 My name is Mahmud and here's a little information about me-
 
 - 🔭 My native language - ![C Sharp](https://img.shields.io/badge/-C%20Sharp-black?labelColor=239120&style=flat-square&logo=C+Sharp) ![XAML](https://img.shields.io/badge/-XAML-black?labelColor=0C54C2&style=flat-square&logo=XAML)
-  ![Python](https://img.shields.io/badge/-Python-Black?labelColor=fff&style=flat-square&logo=Python)
+  ![Python](https://img.shields.io/badge/-Python-Black?labelColor=EEED09&style=flat-square&logo=Python)
 
 - 🌱 I’m currently learning - ![Java](https://img.shields.io/badge/-Java-black?labelColor=2F2625&style=flat-square&logo=java)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)
+  ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=White)
 - 🔧 Tools I use -
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -34,7 +35,8 @@ My name is Mahmud and here's a little information about me-
   "cms"        : ["WordPress"],
   "dbms"       : ["MySQL", "SQLite", "Array", "LinkedList", "JSON", "🤣😂"],
   "languages"  : ["C#", "Java", "Python", "TypeScript", "JavaScript", "C", "C++"],
-  "frameworks" : [".NET Core 3.1", "Selenium", "BeautifulSoup", "Pandas"],
+  "frameworks" : [".NET Core 3.1"],
+  "libraries"  : ["Selenium", "BeautifulSoup", "Pandas"]
   "ui"         : ["Material-ui", "Bootstrap"],
   "cloud"      : ["Azure", "AWS"]
 }
