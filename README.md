@@ -36,7 +36,7 @@ My name is Mahmud and here's a little information about me-
   "dbms"       : ["MySQL", "SQLite", "Array", "LinkedList", "JSON", "🤣😂"],
   "languages"  : ["C#", "Java", "Python", "TypeScript", "JavaScript", "C", "C++"],
   "frameworks" : [".NET Core 3.1"],
-  "libraries"  : ["Selenium", "BeautifulSoup", "Pandas"]
+  "libraries"  : ["Selenium", "BeautifulSoup", "Pandas"],
   "ui"         : ["Material-ui", "Bootstrap"],
   "cloud"      : ["Azure", "AWS"]
 }
