@@ -44,11 +44,14 @@ My name is Mahmud and here's a little information about me-
 
 ### Social
 
-![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square&logo=GitHub&label=Follow&color=0077B5&labelColor=black)
+[![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square&logo=GitHub&label=Follow&color=0077B5&labelColor=black)](https://github.com/MahmudX)
 ![GitHub Profile View](https://api.freemotion-llc.com/api/github/v1/profile-views?username=mahmudx)
 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudxyz) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudofficialid) [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?labelColor=FE7A16&logo=Stack%20Overflow&logoColor=fff)](https://stackoverflow.com/users/6662984/mahmudul-hasan)
+[![LeetCode](https://img.shields.io/badge/%20-LeetCode-2EC866?color=14171A&labelColor=red&logo=leetcode&logoColor=ffffff&style=flat-square)](https://www.leetcode.com/mahmudx)
+[![Hacker Rank](https://img.shields.io/badge/%20-Hacker%20Rank-2EC866?color=14171A&amp;labelColor=2EC866&amp;logo=HackerRank&amp;logoColor=ffffff)](https://www.hackerrank.com/mahmudx)
+[![Codeforces](https://img.shields.io/badge/%20-CodeForces-black?color=14171A&amp;labelColor=0077B5&amp;logo=codeforces&amp;logoColor=ffffff)](http://codeforces.com/profile/MahmudX)
 
 ### Profile Overview
 
