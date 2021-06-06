@@ -16,9 +16,9 @@ My name is Mahmud and here's a little information about me-
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: mail@mahmudnotes.com `or` mahmudnotes@outlook.com
+- 📫 How to reach me: mail@mahmudnotes.com
 
-- 🔗 My domains - [mahmudNotes](http://mahmudnotes.com) `and` [MahmudX](http://mahmudx.com) `or` [MahmudXAzure](http://mahmudx.azurewebsites.net)
+- 🔗 My website - [MahmudX](https://www.mahmudx.com)
 
 - 😄 Pronouns: The 'H' in my name has to cover. Computer Ai skips that 'H' and pronounces my name as Mamudul Hasan 😕
 
@@ -30,14 +30,12 @@ My name is Mahmud and here's a little information about me-
 
 ```JSON
 {
-  "platform"   : ["UWP", "WPF", "Web", "Console 😆"],
-  "backend"    : ["ASP.NET"],
+  "platform"   : ["Desktop", "Mobile", "Web", "Console 😆"],
   "cms"        : ["WordPress"],
-  "dbms"       : ["MySQL", "SQLite", "Array", "LinkedList", "JSON", "🤣😂"],
-  "languages"  : ["C#", "Java", "Python", "TypeScript", "JavaScript", "C", "C++"],
-  "frameworks" : [".NET Core 3.1"],
-  "libraries"  : ["Selenium", "BeautifulSoup", "Pandas"],
-  "ui"         : ["Material-ui", "Bootstrap"],
+  "db"         : ["SQL Server", "MySQL", "SQLite", "MongoDB", "Cassandra", "Firebase", "🤣😂"],
+  "languages"  : ["C#", "Python", "C", "C++", "Java", "JavaScript", "F#", "Fortran"],
+  "frameworks" : ["ASP MVC", "Razor Pages", "Blazor", "Xamarin"],
+  "libraries"  : ["Selenium", "BeautifulSoup"],
   "cloud"      : ["Azure", "AWS"]
 }
 ```
@@ -50,10 +48,10 @@ My name is Mahmud and here's a little information about me-
 [![Hacker Rank](https://img.shields.io/badge/%20-Hacker%20Rank-2EC866?color=14171A&amp;labelColor=2EC866&amp;logo=HackerRank&amp;logoColor=ffffff)](https://www.hackerrank.com/mahmudx)
 [![Codeforces](https://img.shields.io/badge/%20-CodeForces-black?color=14171A&amp;labelColor=0077B5&amp;logo=codeforces&amp;logoColor=ffffff)](http://codeforces.com/profile/MahmudX)
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=mahmudx&theme=dracula)
+<!-- ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=mahmudx&theme=dracula)
 
 ### Profile Overview
 
 [![MahmudX's github stats](https://github-readme-stats.vercel.app/api?username=mahmudx&theme=tokyonight&show_icons=true)](https://github.com/mahmudx)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx&theme=tokyonight)](https://github.com/mahmudx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx&theme=tokyonight)](https://github.com/mahmudx) -->
