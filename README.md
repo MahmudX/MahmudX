@@ -1,5 +1,3 @@
-![🙄](https://visitor-badge.glitch.me/badge?page_id=mahmudx&left_color=purple&right_color=black)
-
 ## Hi there 👋
 
 My name is Mahmud and here's a little information about me-
